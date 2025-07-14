@@ -1,4 +1,4 @@
-# Mini Web Vulnerability Scanner 🛡️
+# Mini Web Vulnerability Scanner 
 
 A lightweight Python tool to scan websites for basic web application vulnerabilities like:
 
@@ -11,14 +11,14 @@ A lightweight Python tool to scan websites for basic web application vulnerabili
 - Requests
 - BeautifulSoup4
 
-## 🚀 How to Use
+## How to Use
 
 ```bash
 pip install -r requirements.txt
 python mini_web_vuln_scanner.py https://example.com
 ```
 
-## 📌 Sample Output
+##  Sample Output
 
 ```
 [+] Scanning: https://example.com
@@ -38,5 +38,5 @@ python mini_web_vuln_scanner.py https://example.com
 
 ---
 
-## 📚 Author
-Bhadra Ram — 3rd year Cybersecurity Student
+##  Author
+kanishk — 3rd year Cybersecurity Student
